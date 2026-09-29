@@ -1,4 +1,6 @@
 # NEXA Distribution Analytics
+<img width="1536" height="1024" alt="Project_Thumbnail" src="https://github.com/user-attachments/assets/ff6f1cbd-1834-4d56-aa7c-a6c2249a0f5a" />
+images/Project_Thumbnail.png
 
 ## Overview
 
@@ -44,10 +46,14 @@ This project investigates:
 ## Dashboard Pages
 
 ### Executive Overview
+<img width="653" height="369" alt="Dashboard_Executive" src="https://github.com/user-attachments/assets/00e534fc-2d86-4816-8151-ab3b5cb72c13" />
+
 
 High-level operational and logistics performance dashboard.
 
 ### Operational Controls & Exceptions
+<img width="653" height="367" alt="Dashboard_Exceptions" src="https://github.com/user-attachments/assets/467bd10a-383a-4f68-ac6c-81590773c632" />
+
 
 Tracks:
 
@@ -60,6 +66,8 @@ Tracks:
 - Overloaded Trips
 
 ### Collections & Financial Performance
+<img width="653" height="368" alt="Dashboard_Collections" src="https://github.com/user-attachments/assets/9119674f-af04-468d-a927-35ce30790d37" />
+
 
 Tracks:
 
